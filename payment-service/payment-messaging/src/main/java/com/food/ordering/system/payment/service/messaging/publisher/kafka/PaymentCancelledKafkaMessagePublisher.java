@@ -1,4 +1,3 @@
-
 package com.food.ordering.system.payment.service.messaging.publisher.kafka;
 
 import com.food.ordering.system.kafka.order.avro.model.PaymentResponseAvroModel;

@@ -1,4 +1,3 @@
-
 package com.food.ordering.system.payment.service.domain;
 
 import org.springframework.boot.SpringApplication;

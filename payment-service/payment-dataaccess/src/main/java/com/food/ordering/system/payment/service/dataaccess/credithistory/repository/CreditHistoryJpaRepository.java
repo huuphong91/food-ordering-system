@@ -1,4 +1,3 @@
-
 package com.food.ordering.system.payment.service.dataaccess.credithistory.repository;
 
 import com.food.ordering.system.payment.service.dataaccess.credithistory.entity.CreditHistoryEntity;

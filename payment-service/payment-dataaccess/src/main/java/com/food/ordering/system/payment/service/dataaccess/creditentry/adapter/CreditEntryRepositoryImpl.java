@@ -1,4 +1,3 @@
-
 package com.food.ordering.system.payment.service.dataaccess.creditentry.adapter;
 
 import com.food.ordering.system.domain.valueobject.CustomerId;

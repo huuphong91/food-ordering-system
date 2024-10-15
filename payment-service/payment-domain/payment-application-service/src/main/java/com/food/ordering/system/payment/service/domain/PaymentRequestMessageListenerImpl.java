@@ -1,4 +1,3 @@
-
 package com.food.ordering.system.payment.service.domain;
 
 import com.food.ordering.system.payment.service.domain.dto.PaymentRequest;

@@ -1,4 +1,3 @@
-
 package com.food.ordering.system.payment.service.dataaccess.payment.repository;
 
 import com.food.ordering.system.payment.service.dataaccess.payment.entity.PaymentEntity;

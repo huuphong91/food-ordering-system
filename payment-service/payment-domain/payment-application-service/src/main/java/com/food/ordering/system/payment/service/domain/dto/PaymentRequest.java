@@ -1,4 +1,3 @@
-
 package com.food.ordering.system.payment.service.domain.dto;
 
 import com.food.ordering.system.domain.valueobject.PaymentOrderStatus;
